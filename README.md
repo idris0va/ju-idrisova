@@ -19,3 +19,6 @@ HTML5, CSS/SCSS, Vanilla JavaScript, Gulp, Webpack, Figma<br/>
 
 ### 👩🏻‍🎓 Currently learning:
 React, Redux, TypeScript <br/> <br/> 
+
+### 🔥 My Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju-idrisova&show_icons=true&theme=react)
