@@ -15,10 +15,13 @@ Here you can check some info about me and my projects 💻<br/>
 </a>  <br/> <br/> 
 
 ### 🛠 My tech stack:
-HTML5, CSS/SCSS, Vanilla JavaScript, Gulp, Webpack, Figma<br/>
+- **Responsive web-development:** HTML5, CSS/SCSS;
+- **Frontend:** JavaScript (ES5/ES6);
+- **Code bundlers:** Gulp, Webpack;
+- **UX/UI:** Adobe XD, Adobe Photoshop, Figma, Adobe Illustrator.
 
 ### 👩🏻‍🎓 Currently learning:
 React, Redux, TypeScript <br/> <br/> 
 
 ### 🔥 My Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju-idrisova&show_icons=true&theme=react)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ju-idrisova&show_icons=true&locale=en" alt="ju-idrisova" /></p>
