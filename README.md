@@ -4,7 +4,7 @@ Passionate about learning new and advance stuffs ✨<br/>
 Currently learning Frontend at HTML Academy 🎓<br/> 
 Here you can check some info about me and my projects 💻<br/> 
 
-<a href="https://t.me/roaringkitty23">
+<a href="https://t.me/roaringkitty">
   <img align="left" alt="Yuliya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://discordapp.com/users/roaringkitty#2419">
