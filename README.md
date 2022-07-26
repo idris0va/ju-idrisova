@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61D9FA&lines=Hi%2C+I'm+Julia+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+Passionate about learning new and advance stuffs ✨<br/> 
 Currently learning Frontend at HTML Academy 🎓<br/> 
-I love to explore new technologies and use them to solve real-life problems ✨<br/> 
 Here you can check some info about me and my projects 💻<br/> 
 
 <a href="https://t.me/roaringkitty23">
