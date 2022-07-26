@@ -14,14 +14,14 @@ Here you can check some info about me and my projects 💻<br/>
   <img align="left" alt="Yuliya's Telegram" width="22px" src="https://user-images.githubusercontent.com/104796023/171705293-d980780d-3f5c-47e2-b606-a84a9aed92be.svg"/>
 </a>  <br/> <br/> 
 
-### 🛠 My tech stack:
+## 🛠 My tech stack:
 - **Responsive web-development:** HTML5, CSS/SCSS;
 - **Frontend:** JavaScript (ES5/ES6);
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Adobe XD, Adobe Photoshop, Figma, Adobe Illustrator.
 
-### 👩🏻‍🎓 Currently learning:
+## 👩🏻‍🎓 Currently learning:
 React, Redux, TypeScript <br/> <br/> 
 
-### 🔥 My Stats:
+## 🔥 My Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ju-idrisova&show_icons=true&locale=en" alt="ju-idrisova" /></p>
